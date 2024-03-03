@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * done
- * done
- * done
+ * donssssd sjsdsj sjdd skdse
+ * donedsdsdsds skdndsdnskds ks dsiwdwwieuwoe
+ * done sddnei cxkdenlfieofne edje 
  *
- * done
+ * done dksjdnsnfcd  cejkwwe e
  */
 char *_strcat(char *dest, char *src)
 {
