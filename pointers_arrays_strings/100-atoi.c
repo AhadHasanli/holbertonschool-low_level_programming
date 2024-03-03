@@ -1,16 +1,10 @@
 #include "main.h"
 
 /**
- * _atoi - Convert a string to an integer.
- * @s: The string to be converted.
+ * _atoi - converts a string to an integer
+ * @s: string to be converted
  *
- * The number in the string can be preceded by an infinite number of characters.
- * This function takes into account all the - and + signs before the number.
- * If there are no numbers in the string, the function returns 0.
- * It does not use long and does not declare new variables of "type" array.
- * It does not hard-code special values.
- *
- * Return: The integer value converted from the string.
+ * Return: the int converted from the string
  */
 int _atoi(char *s)
 {
