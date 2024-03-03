@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * donssssd sjsdsj sjdd skdse
- * donedsdsdsds skdndsdnskds ks dsiwdwwieuwoe
- * done sddnei cxkdenlfieofne edje 
+ * _strcat - concatenates two strings
+ * @dest: string to append to
+ * @src: string to add
  *
- * done dksjdnsnfcd  cejkwwe e
+ * Return: a pointer to the resulting stringe
  */
 char *_strcat(char *dest, char *src)
 {
