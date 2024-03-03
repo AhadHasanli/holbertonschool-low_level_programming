@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * string_toupper - changes all lowercase letters of a string
@@ -7,7 +7,7 @@
  *
  * Return: the resulting string
  */
-char *string_toupper(char *)
+char *string_toupper(char *s)
 {
 	int i;
 
@@ -19,5 +19,3 @@ char *string_toupper(char *)
 
 	return (s);
 }
-
-
